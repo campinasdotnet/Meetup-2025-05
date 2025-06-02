@@ -22,4 +22,9 @@ Local: UniMetrocamp - Rua Dr. Sales de Oliveira, 1661 - Vila Industrial - próxi
 
 ---
 
-![Banner do evento](img/banner.png)
+![Banner do evento](img/banner-campinas-dotnet-2025-05.png)
+
+![Renato e Diego palestrando](img/renato-diego-12.jpg)
+
+![Renato e Diego palestrando](img/renato-diego-10.jpg)
+
