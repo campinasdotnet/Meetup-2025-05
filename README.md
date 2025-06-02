@@ -35,3 +35,9 @@ Local: UniMetrocamp - Rua Dr. Sales de Oliveira, 1661 - Vila Industrial - próxi
 ![Hugo palestrando](img/hugo-15.jpg)
 
 ![Hugo palestrando](img/hugo-11.jpg)
+
+![Banner - Renato e Diego](img/palestra-seg.jpg)
+
+![Banner - Milton](img/palestra-containers.jpg)
+
+![Banner - Hugo](img/palestra-powerbi.jpg)
