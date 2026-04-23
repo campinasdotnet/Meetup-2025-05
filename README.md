@@ -4,6 +4,7 @@ Fotos e informações gerais de meetup promovido pela comunidade Campinas .NET e
 Organizadores:
 - **João Ronaldo Cunha (UniMetrocamp)**
 - **Renato Groffe (Microsoft MVP, MTAC)**
+- **Hugo Venturini (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)**
 
 Número de participantes: **20 pessoas**
 
